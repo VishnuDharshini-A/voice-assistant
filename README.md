@@ -1,8 +1,12 @@
 🎙️ Voice Assistant using Python
+--
 
 A simple Python-based Voice Assistant that performs tasks like speech recognition, text-to-speech conversion, playing YouTube videos, searching the web, telling time, and more using popular Python libraries.
 
+---
+
 📌 Features
+---
 
 🎤 Voice input using microphone
 
@@ -18,7 +22,10 @@ A simple Python-based Voice Assistant that performs tasks like speech recognitio
 
 🤖 Interactive and beginner-friendly project
 
+---
+
 🛠️ Technologies & Libraries Used
+---
 
 Python
 
@@ -34,7 +41,10 @@ wikipedia – to get summarized information
 
 pyaudio – for microphone input
 
+---
+
 🗣️ Sample Voice Commands
+---
 
 “Play Shape of You on YouTube”
 
@@ -46,7 +56,10 @@ pyaudio – for microphone input
 
 “Who is Elon Musk”
 
+---
+
 🎯 Use Cases
+---
 
 Beginner Python practice project
 
@@ -56,7 +69,10 @@ Learning automation with Python
 
 Internship or academic mini project
 
+---
+
 🚀 Future Enhancements
+---
 
 Add GUI using Tkinter
 
@@ -68,7 +84,10 @@ Improve command accuracy
 
 Add wake-word detection
 
+---
+
 👩‍💻 Author
+---
 
 Vishnu Dharshini A
 Voice Assistant using Python
